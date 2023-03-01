@@ -5,9 +5,9 @@ slug: "ai를-활용하는-최고의-마케팅-도구-top-10"
 categories: []
 tags: []
 description: ""
-date: ""
+date: "2023-03-01 12:00"
 createdAt: 1677632127158
-updatedAt: 1677632166832
+updatedAt: 1677632347174
 
 ---
 # **AI 기반 마케팅 도구를 사용하는 이유는 무엇입니까?**
